@@ -1,5 +1,7 @@
 #include "main.h"
+#include <stdio.h>
 #include <stdlib.h>
+
 
 /**
  *string_nconcat - fonction concatenate strings
